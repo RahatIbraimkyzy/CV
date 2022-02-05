@@ -1,2 +1,1 @@
-My CV with HTML.
-link:https://rahatibraimkyzy.github.io/CV/
+My CV with HTML.Link of the website :https://rahatibraimkyzy.github.io/CV/
